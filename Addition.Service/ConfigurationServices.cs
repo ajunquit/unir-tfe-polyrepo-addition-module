@@ -1,6 +1,6 @@
 ﻿namespace Addition.Service
 {
-    public class Class1
+    public class ConfigurationServices
     {
 
     }
