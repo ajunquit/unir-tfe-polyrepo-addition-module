@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Addition.Service\Addition.Service.csproj" />
+  </ItemGroup>
+
 </Project>
